@@ -1,0 +1,15 @@
+﻿.alert-style {
+    color: red;
+    font-size: 1.5em;
+    position: absolute;
+    top: 25px;
+}
+
+.alert-right{
+   right: 10px;
+}
+
+.alert-left {
+    left: 10px;
+}
+ 
